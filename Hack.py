@@ -1,4 +1,3 @@
-﻿# -- coding: utf8 --
 import asyncio, textwrap, os, json, colorama, pickle, random
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
